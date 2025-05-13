@@ -50,6 +50,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=ATmega328AU.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NMBZWCHB
+
+[Document2]
+DocumentPath=ATmega328AU.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PDHEQPJQ
+
+[Document3]
 DocumentPath=R_0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPPIDZZA
 
-[Document2]
+[Document4]
 DocumentPath=R_0201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWSHLSJE
 
-[Document3]
+[Document5]
 DocumentPath=R_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DURNGFKL
 
-[Document4]
+[Document6]
 DocumentPath=R_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSHBNXRV
 
-[Document5]
+[Document7]
 DocumentPath=R_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBTSYYDY
 
-[Document6]
+[Document8]
 DocumentPath=R_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHDINPDT
 
-[Document7]
+[Document9]
 DocumentPath=R_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBULVIXC
 
-[Document8]
+[Document10]
 DocumentPath=R_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLXMKBDR
 
-[Document9]
+[Document11]
 DocumentPath=R_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZRKZITFA
 
-[Document10]
+[Document12]
 DocumentPath=R_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCBDQQJJ
 
-[Document11]
+[Document13]
 DocumentPath=C_0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZFAFTPCZ
 
-[Document12]
+[Document14]
 DocumentPath=C_0201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQTCPOWJ
 
-[Document13]
+[Document15]
 DocumentPath=C_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPYJZVCY
 
-[Document14]
+[Document16]
 DocumentPath=C_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AODYROPO
 
-[Document15]
+[Document17]
 DocumentPath=C_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDNSWTXI
 
-[Document16]
+[Document18]
 DocumentPath=C_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLNQTCES
 
-[Document17]
+[Document19]
 DocumentPath=C_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAMHKXYW
 
-[Document18]
+[Document20]
 DocumentPath=C_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBRMXNDF
 
-[Document19]
+[Document21]
 DocumentPath=C_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSANSEOY
 
-[Document20]
+[Document22]
 DocumentPath=C_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUGPJUQT
 
-[Document21]
+[Document23]
 DocumentPath=C_TANT_A(3216).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFAAGRFN
 
-[Document22]
+[Document24]
 DocumentPath=C_TANT_A(3216).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNEAGXUN
 
-[Document23]
+[Document25]
 DocumentPath=C_TANT_B(3528).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZGJKEDR
 
-[Document24]
+[Document26]
 DocumentPath=C_TANT_B(3528).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMDVIDWA
 
-[Document25]
+[Document27]
 DocumentPath=C_TANT_C(6032).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYGHAWZM
 
-[Document26]
+[Document28]
 DocumentPath=C_TANT_C(6032).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSYIPDSE
 
-[Document27]
+[Document29]
 DocumentPath=C_TANT_D(7343).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNNKABEU
 
-[Document28]
+[Document30]
 DocumentPath=C_TANT_D(7343).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRWGMPJG
 
-[Document29]
+[Document31]
 DocumentPath=C_ALU_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOLCEHKS
 
-[Document30]
+[Document32]
 DocumentPath=C_ALU_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQOCLWEQ
 
-[Document31]
+[Document33]
 DocumentPath=C_ALU_TH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEPCQRBF
 
-[Document32]
+[Document34]
 DocumentPath=C_ALU_TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYNSYWOY
 
-[Document33]
+[Document35]
 DocumentPath=D_SOD123.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBORXBAB
 
-[Document34]
+[Document36]
 DocumentPath=D_SOD123.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJODIKPH
 
-[Document35]
+[Document37]
 DocumentPath=D_SOD323.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGOLIFQZ
 
-[Document36]
+[Document38]
 DocumentPath=D_SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMXTAVPY
 
-[Document37]
+[Document39]
 DocumentPath=D_SOD523.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPCXYODF
 
-[Document38]
+[Document40]
 DocumentPath=D_SOD523.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJUFEAGO
 
-[Document39]
+[Document41]
 DocumentPath=D_SOD923.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNESTALQ
 
-[Document40]
+[Document42]
 DocumentPath=D_SOD923.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGXPQOVT
 
-[Document41]
+[Document43]
 DocumentPath=D_DO214AC(SMA).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEXJPWON
 
-[Document42]
+[Document44]
 DocumentPath=D_DO214AC(SMA).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKCARQFB
 
-[Document43]
+[Document45]
 DocumentPath=D_DO214AA(SMB).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCEADIAO
 
-[Document44]
+[Document46]
 DocumentPath=D_DO214AA(SMB).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYFKUXFK
 
-[Document45]
+[Document47]
 DocumentPath=D_DO214AB(SMC).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOMOQTBV
 
-[Document46]
+[Document48]
 DocumentPath=D_DO214AB(SMC).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYAKJMWC
 
-[Document47]
+[Document49]
 DocumentPath=TEST_POINT_PAD3MM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIKXMSYR
 
-[Document48]
+[Document50]
 DocumentPath=TEST_POINT_PAD3MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMRWDQIP
 
-[Document49]
+[Document51]
 DocumentPath=TEST_POINT_PAD2MM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLSJOEPY
 
-[Document50]
+[Document52]
 DocumentPath=TEST_POINT_PAD2MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBJRBNWG
 
-[Document51]
+[Document53]
 DocumentPath=TEST_POINT_PAD1MM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUMJNUVW
 
-[Document52]
+[Document54]
 DocumentPath=TEST_POINT_PAD1MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMAIBDVT
 
-[Document53]
+[Document55]
 DocumentPath=HOLD_SIZE_3mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMFRKAXB
 
-[Document54]
+[Document56]
 DocumentPath=HOLD_SIZE_3mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIIYXYQB
 
-[Document55]
+[Document57]
 DocumentPath=LED_0603_RED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URBHYNPZ
 
-[Document56]
+[Document58]
 DocumentPath=LED_0603_RED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEKHCVLR
 
-[Document57]
+[Document59]
 DocumentPath=LED_0603_GREEN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFZQQZPC
 
-[Document58]
+[Document60]
 DocumentPath=LED_0603_GREEN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJPIXDNS
 
-[Document59]
+[Document61]
 DocumentPath=LED_0603_YELLOW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSMVFJWQ
 
-[Document60]
+[Document62]
 DocumentPath=LED_0603_YELLOW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJUJYAVP
 
-[Document61]
+[Document63]
 DocumentPath=LED_0603_BLUE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEHAYPZE
 
-[Document62]
+[Document64]
 DocumentPath=LED_0603_BLUE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IAHAADUO
 
-[Document63]
+[Document65]
 DocumentPath=LED_0805_RED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDSYZEZB
 
-[Document64]
+[Document66]
 DocumentPath=LED_0805_RED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1137,7 +1171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQKPCTOJ
 
-[Document65]
+[Document67]
 DocumentPath=LED_0805_GREEN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1154,7 +1188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZIBGAPTR
 
-[Document66]
+[Document68]
 DocumentPath=LED_0805_GREEN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1171,7 +1205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPVXNYKK
 
-[Document67]
+[Document69]
 DocumentPath=LED_0805_YELLOW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1188,7 +1222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPTHEDNC
 
-[Document68]
+[Document70]
 DocumentPath=LED_0805_YELLOW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1205,7 +1239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUECMYLB
 
-[Document69]
+[Document71]
 DocumentPath=LED_0805_BLUE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1222,7 +1256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITGDBXXN
 
-[Document70]
+[Document72]
 DocumentPath=LED_0805_BLUE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1239,7 +1273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLOSKMLU
 
-[Document71]
+[Document73]
 DocumentPath=LED_1206_RED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1256,7 +1290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYWLAVOX
 
-[Document72]
+[Document74]
 DocumentPath=LED_1206_RED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1273,7 +1307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIGDFFKF
 
-[Document73]
+[Document75]
 DocumentPath=LED_1206_GREEN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1290,7 +1324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHAHQZRW
 
-[Document74]
+[Document76]
 DocumentPath=LED_1206_GREEN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1307,7 +1341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQQUJGYH
 
-[Document75]
+[Document77]
 DocumentPath=LED_1206_YELLOW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1324,7 +1358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFMPVTCZ
 
-[Document76]
+[Document78]
 DocumentPath=LED_1206_YELLOW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1341,7 +1375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVSVQHXV
 
-[Document77]
+[Document79]
 DocumentPath=LED_1206_BLUE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1358,7 +1392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJYUUACY
 
-[Document78]
+[Document80]
 DocumentPath=LED_1206_BLUE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1375,7 +1409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEYXRKMG
 
-[Document79]
+[Document81]
 DocumentPath=FERRITE BEAD CHIP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1392,7 +1426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAJKMWMB
 
-[Document80]
+[Document82]
 DocumentPath=FERRITE BEAD CHIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
