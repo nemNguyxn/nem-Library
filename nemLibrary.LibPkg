@@ -968,7 +968,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EMAIBDVT
 
 [Document55]
-DocumentPath=HOLD_SIZE_3mm.SchLib
+DocumentPath=HOLE_SIZE_3mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -985,7 +985,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QMFRKAXB
 
 [Document56]
-DocumentPath=HOLD_SIZE_3mm.PcbLib
+DocumentPath=HOLE_SIZE_3mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
